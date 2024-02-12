@@ -1,0 +1,6 @@
+w UP
+s DOWN
+d RIGHT
+a LEFT
+l START
+k END
